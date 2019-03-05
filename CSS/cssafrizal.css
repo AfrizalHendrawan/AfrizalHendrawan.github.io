@@ -1,13 +1,19 @@
-h1 {color: yellow;
+h1 {font-color: white;
 	text-align: center}
-.dua {color:black;font-size: 14px}
-.satu {width: 350px; }
+.dua {font-size: 20px;}
+.satu {width: 350px;shape-image-threshold: circle; border-radius: 50% }
 .iya {text-align: justify;font-size: 20px}
-.oke {color:green}
+.oke {color:black;text-align: center;}
 .col-sm-4 {color: black}
-.izal {color: red}
-h4 {text-align: center;font-size: 40px;color: yellow}
-h5 {text-align: center;font-size: 40px;color: blue}
-h6 {text-align: center;font-size: 40px;color: green}
-.satuu {width: 350px; shape-image-threshold: circle}
+.izal {color: black}
+h4 {text-align: center;font-size: 40px;}
+h5 {text-align: center;font-size: 40px;}
+h6 {text-align: center;font-size: 40px;}
+.satuu {width: 200px; shape-image-threshold: circle}
 .h {text-align: center;font-size: 40px;color: grey}
+.satoe {width: 350px; shape-image-threshold: circle; border-radius: 50%;
+}
+.lima{text-align: center}
+.okee {text-align: center;font-size: 25px;background-color:#E6E6FA}
+.audio {text-align: center;}
+.empat {width: 350px;}
